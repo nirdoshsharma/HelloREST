@@ -1,5 +1,5 @@
 {
-  "name": "node-api-es7-starter",
+  "name": "hello-rest",
   "version": "1.0.0",
   "description": "NodeJS API Server Boilerplate",
   "main": "server.js",
