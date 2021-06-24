@@ -7,5 +7,5 @@ const HealthModel = {
 export default HealthModel
 
 async function get () {
-  return undefined
+  return "Nirdosh"
 }
